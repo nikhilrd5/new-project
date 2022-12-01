@@ -1,1 +1,2 @@
-# new-project
+<h2>New Project</h2>
+<p>BWS Inc. is a Web Development & Designing company with its headquarter in USA and a branch in New Delhi India and started it's operation in 2018. We provide a varity of tools to the businesses to grow and increase their productivity like Web Designing, SEO, Digital Marketing and promotion, Logo Design, Content writing etc. We are a fast growing company so opportunities are more.</p>
